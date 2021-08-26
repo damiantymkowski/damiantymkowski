@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, Web development**
 
-- 📫 How to reach me **thedamianpl@gmail.com**
-
 - ⚡ Fun fact **I love pizza**
 
 
